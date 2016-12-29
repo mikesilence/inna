@@ -1,0 +1,7 @@
+.redux-container-image_select .redux-image-select {
+	max-width: 100%;
+}
+.redux-field-container .select2-container-multi {
+	display: block;
+	width: 100% !important;
+}
